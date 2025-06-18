@@ -30,3 +30,17 @@ document compared to embedded.
 CONSOLE SCREENOUTPUT
 _________________________
 ![image](https://github.com/user-attachments/assets/f2ff9027-fdff-4f8a-a2c7-9348eedfb36f)
+
+MongoDB SCREENSHOTS
+__________________________
+
+1) COURSE DETAILS.
+![image](https://github.com/user-attachments/assets/4a85623f-d4fa-43cb-ac5f-db9e339ab974)
+
+2)ENROLLMENT DETAILS.
+![image](https://github.com/user-attachments/assets/2c57da41-9b29-435a-a024-e7582e01aaf1)
+
+3)STUDENT DETAILS.
+![image](https://github.com/user-attachments/assets/a0eb490d-e19d-4ea3-aaf6-862f0b60ba08)
+
+
