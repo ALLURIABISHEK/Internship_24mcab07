@@ -24,5 +24,5 @@ To do:
 document compared to embedded. 
 5. Create indexes for querying the students 
 6. Share the screenshot of the result in the readme file.
-=====================================================SCREENSHOT OF THE OUTPUT AND MONGODB==========================================================
+
 #SCREENSHOT OF THE OUTPUT AND MONGODB
