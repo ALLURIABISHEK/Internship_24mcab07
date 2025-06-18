@@ -27,4 +27,6 @@ document compared to embedded.
 
 #SCREENSHOT OF THE OUTPUT AND MONGODB
 
+CONSOLE SCREENOUTPUT
+_________________________
 ![image](https://github.com/user-attachments/assets/f2ff9027-fdff-4f8a-a2c7-9348eedfb36f)
