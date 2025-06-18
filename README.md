@@ -26,3 +26,5 @@ document compared to embedded.
 6. Share the screenshot of the result in the readme file.
 
 #SCREENSHOT OF THE OUTPUT AND MONGODB
+
+![image](https://github.com/user-attachments/assets/f2ff9027-fdff-4f8a-a2c7-9348eedfb36f)
