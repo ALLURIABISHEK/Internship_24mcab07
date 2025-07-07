@@ -1,6 +1,6 @@
-#🚀 Project Title: EMPulse - Employee Management Dashboard
+#EMPulse - Employee Management Dashboard
 📌 Overview
-#EMPulse is a lightweight, efficient, and intuitive employee management dashboard developed using Java and MongoDB, built with a focus on real-time HR operations. It allows admins to seamlessly manage employee records, track departmental statistics, perform CRUD operations, and visualize workforce analytics.
+EMPulse is a lightweight, efficient, and intuitive employee management dashboard developed using Java and MongoDB, built with a focus on real-time HR operations. It allows admins to seamlessly manage employee records, track departmental statistics, perform CRUD operations, and visualize workforce analytics.
 
 This system is ideal for internal HR teams or as a beginner-friendly full-stack admin dashboard project built in IntelliJ.
 
@@ -64,25 +64,7 @@ Build Tool	IntelliJ IDEA
 Data Format	JSON
 Server Port	Default: 8080
 
-📂 Folder Structure (Suggested)
-css
-Copy
-Edit
-project-root/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/org/example/
-│   │   │   ├── controller/
-│   │   │   ├── model/
-│   │   │   ├── repository/
-│   │   │   └── service/
-│   └── resources/
-│       └── static/ (HTML/CSS/JS)
-├── pom.xml / build.gradle
-├── README.md
-🔧 How to Run the Project
-Clone the repository
+
 
 Ensure MongoDB is running locally on default port 27017
 
