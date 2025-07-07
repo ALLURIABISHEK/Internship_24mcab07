@@ -1,5 +1,5 @@
 🚀 EMPulse - Employee Management Dashboard
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0Z3JtY3J1c3VjY3B6d3V5eHZtYzV1dG5zY2V6d2RjZ2J4dW1mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Dashboard Animation"> </div>
+
 📌 Overview
 EMPulse is a lightweight, efficient, and intuitive employee management dashboard developed using Java and MongoDB, built with a focus on real-time HR operations. It allows admins to seamlessly manage employee records, track departmental statistics, perform CRUD operations, and visualize workforce analytics.
 
