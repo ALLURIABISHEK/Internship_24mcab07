@@ -1,46 +1,120 @@
-# Day- 03 Report
+#🚀 Project Title: EMPulse - Employee Management Dashboard
+📌 Overview
+#EMPulse is a lightweight, efficient, and intuitive employee management dashboard developed using Java and MongoDB, built with a focus on real-time HR operations. It allows admins to seamlessly manage employee records, track departmental statistics, perform CRUD operations, and visualize workforce analytics.
 
-#Task that was given
-=========================================================================================
-Create a Java application that manages student enrollments in courses using MongoDB. Use 
-embedded documents for some data and referenced documents for others, to understand their 
-structural differences. Upload the code to GitHub with the name Day3-Task 
-** Requirements 
-MongoDB Collections 
-students — stores student details 
-courses — stores course details 
-enrollments — stores enrollment records 
-**Document Structure 
-In enrollments: 
-One document should embed both      
-student and course data. 
-Another should reference them using  
-ObjectIds. 
-To do:  
-1. Insert sample students and courses. 
-2. Add two types of enrollments (embedded and referenced). 
-3. Query and print both types with full details. 
-4. Update a student's name and mention the difference between updating a referenced 
-document compared to embedded. 
-5. Create indexes for querying the students 
-6. Share the screenshot of the result in the readme file.
+This system is ideal for internal HR teams or as a beginner-friendly full-stack admin dashboard project built in IntelliJ.
 
-#SCREENSHOT OF THE OUTPUT AND MONGODB
+✅ Features
+📊 Dashboard Overview
+Total Employees
 
-CONSOLE SCREENOUTPUT
-_________________________
-![image](https://github.com/user-attachments/assets/f2ff9027-fdff-4f8a-a2c7-9348eedfb36f)
+Total Departments
 
-MongoDB SCREENSHOTS
-__________________________
+New Hires
 
-1) COURSE DETAILS.
-![image](https://github.com/user-attachments/assets/4a85623f-d4fa-43cb-ac5f-db9e339ab974)
+Active Projects (Placeholder for future enhancement)
 
-2)ENROLLMENT DETAILS.
-![image](https://github.com/user-attachments/assets/2c57da41-9b29-435a-a024-e7582e01aaf1)
+➕ Add Employee
+Full Name, Email, Department
 
-3)STUDENT DETAILS.
-![image](https://github.com/user-attachments/assets/a0eb490d-e19d-4ea3-aaf6-862f0b60ba08)
+Skills (comma-separated)
+
+Joining Date picker
+
+Instant MongoDB persistence
+
+🔍 Search & Filter
+Search by Name, Department, Skills
+
+Filter employees by Joining Date range
+
+🧾 Employee Management
+View Employee List with pagination
+
+Update Employee Details
+
+Delete Employee by:
+
+Quick Delete by Email
+
+Row-wise delete button
+
+⚡ Quick Actions
+View All Employees
+
+Enable/Disable Manage Mode
+
+Delete by Email input
+
+View Department-wise Stats
+
+📈 Analytics
+Department Statistics Table
+
+Employee count per department
+
+Sorted data with pagination
+
+🗃️ Tech Stack
+Layer	Technology
+Frontend	HTML, CSS, JavaScript
+Backend	Java (Spring Boot / Core Java HTTP APIs)
+Database	MongoDB
+Build Tool	IntelliJ IDEA
+Data Format	JSON
+Server Port	Default: 8080
+
+📂 Folder Structure (Suggested)
+css
+Copy
+Edit
+project-root/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/org/example/
+│   │   │   ├── controller/
+│   │   │   ├── model/
+│   │   │   ├── repository/
+│   │   │   └── service/
+│   └── resources/
+│       └── static/ (HTML/CSS/JS)
+├── pom.xml / build.gradle
+├── README.md
+🔧 How to Run the Project
+Clone the repository
+
+Ensure MongoDB is running locally on default port 27017
+
+Run the Main.java from IntelliJ
+
+Open browser at http://localhost:8080
+
+Start managing employees!
+
+🧠 Future Enhancements (Optional Ideas)
+Authentication & JWT-based sessions
+
+Profile pictures upload
+
+Sorting and exporting employee lists
+
+Chart-based analytics (Pie/Bar/Line using Chart.js or similar)
+
+Dark mode toggle (UI support already present)
+
+📸 Screenshots
+
+![Screenshot 2025-07-07 111419](https://github.com/user-attachments/assets/08cb18f9-7c1f-467f-80d2-e8cfdfed8846)
+
+![Screenshot 2025-07-07 111440](https://github.com/user-attachments/assets/c5be7cc6-e2a1-434d-bae1-bb59efab6a91)
+
+![Screenshot 2025-07-07 111821](https://github.com/user-attachments/assets/97389b04-4007-4eb3-af5b-85184d86d511)
+
+![Screenshot 2025-07-07 111449](https://github.com/user-attachments/assets/73b7fb29-ec4e-4be6-9197-06a88cbd4af4)
+
+
+
+
 
 
